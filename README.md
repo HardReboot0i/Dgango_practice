@@ -1,1 +1,1 @@
-# Dgango_training
+# Dgango_practice
